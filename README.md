@@ -87,4 +87,15 @@
 
 - default
 
+## Frontend
+
+### Struktur und Dateien
+
+- dist
+  - assets
+    - index-cache.js
+    - index-cache.css
+  - index.html
+  - vite.svg
+
 ## GIT
