@@ -27,3 +27,14 @@
 # Erfolgreich getestet: 19.03.2023
 
 _Test für Installations-Script_
+
+## dependencies
+
+- react
+- react-dom
+- sass
+
+## devDependencies
+
+- @types/react
+- @types/react-dom
