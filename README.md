@@ -12,7 +12,7 @@
 
     git clone https://github.com/tBrause/npm-vite-react-sass.git .; git remote remove origin
 
-> CMD: shorty
+> CMD: Fast start
 
     npm install; npm run build; npm run dev
 
