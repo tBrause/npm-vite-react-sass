@@ -1,6 +1,6 @@
 # DEV-JS-Entwicklungsumgebung
 
-### vite, react, sass, eslint, postcss, cssnano, cjs, vsc
+### vite, react, sass, eslint, postcss, cssnano, cjs, vsc, git
 
 ## Installation
 
