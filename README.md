@@ -28,6 +28,12 @@
 
 _19.03.2023_
 
+## scripts
+
+- dev
+- build
+- preview
+
 ## dependencies
 
 - react
@@ -38,3 +44,16 @@ _19.03.2023_
 
 - @types/react
 - @types/react-dom
+- @vitejs/plugin-react
+- cssnano
+- postcss-preset-env
+- vite
+- eslint
+- eslint-plugin-jsx-a11y
+- eslint-plugin-react
+- eslint-plugin-react-hooks
+
+## browserslist
+
+- default
+
