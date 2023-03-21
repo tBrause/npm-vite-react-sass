@@ -8,10 +8,6 @@
 
     cd
 
-> CMD: VSCode öffnen (... = Pfad)
-
-    code ...
-
 > CMD: git clone & git remote remove orgin
 
     git clone https://github.com/tBrause/npm-vite-react-sass.git .; git remote remove origin
@@ -19,6 +15,10 @@
 > CMD: Fast start
 
     npm install; npm run build; npm run dev
+
+> CMD: VSCode öffnen (... = Pfad)
+
+    code ...
 
 > 👍 Erfolgreich getestet: 21.03.2023
 
