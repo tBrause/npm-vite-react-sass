@@ -73,7 +73,13 @@
 - README.md
 - vite.config.js
 - sass
+  - \_normalize.scss
   - style.css
+- src
+  - components
+    - App.jsx
+  - app.jsx
+- .eslintrc.cjs
 
 ### browserslist
 
