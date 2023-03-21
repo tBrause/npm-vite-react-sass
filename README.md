@@ -24,9 +24,9 @@
 
     npm run preview
 
-# Erfolgreich getestet: 19.03.2023
+## Erfolgreich getestet
 
-_Test für Installations-Script_
+_19.03.2023_
 
 ## dependencies
 
