@@ -72,6 +72,8 @@
 - prettier.config.cjs
 - README.md
 - vite.config.js
+- sass
+  - style.css
 
 ### browserslist
 
