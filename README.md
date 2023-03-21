@@ -16,9 +16,9 @@
 
     npm install; npm run build; npm run dev
 
-> CMD: VSCode öffnen (... = Pfad)
+> CMD: VSCode öffnen
 
-    code ...
+    code .
 
 > 👍 Erfolgreich getestet: 21.03.2023
 
