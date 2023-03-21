@@ -20,6 +20,10 @@
 
     npm run dev
 
+> CMD-Befehl Ansicht Export
+
+    npm run preview
+
 # Erfolgreich getestet: 19.03.2023
 
 _Test für Installations-Script_
