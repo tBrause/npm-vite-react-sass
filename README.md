@@ -16,6 +16,10 @@
 
     npm install; npm run build; npm run dev
 
+> 👍 Erfolgreich getestet: 21.03.2023
+
+## CMD-Befehle
+
 > CMD: npm install
 
     npm install
@@ -31,8 +35,6 @@
 > CMD: npm run preview
 
     npm run preview
-
-> 👍 Erfolgreich getestet: 21.03.2023
 
 ## scripts
 
