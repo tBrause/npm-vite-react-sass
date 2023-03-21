@@ -4,23 +4,23 @@
 
     cd
 
-> CMD-Befehl kopieren und einfügen
+> git clone
 
     git clone https://github.com/tBrause/npm-vite-react-sass.git .; git remote remove origin
 
-> CMD-Befehl Installation
+> CMD: npm install
 
     npm install
 
-> CMD-Befehl zur Erstellung
+> CMD: npm run build
 
     npm run build
 
-> CMD-Befehl zur Bearbeitung
+> CMD: npm run dev
 
     npm run dev
 
-> CMD-Befehl Ansicht Export
+> CMD: npm run preview
 
     npm run preview
 
