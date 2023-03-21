@@ -8,7 +8,7 @@
 
     cd
 
-> CMD: VSCode öffnen (nach code den Pfad angeben)
+> CMD: VSCode öffnen (... = Pfad)
 
     code ...
 
