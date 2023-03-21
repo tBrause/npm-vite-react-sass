@@ -4,11 +4,11 @@
 
 ## Installation
 
-> In Projektordner wechseln
+> CMD: In Projektordner wechseln
 
     cd
 
-> git clone
+> CMD: git clone & git remote remove orgin
 
     git clone https://github.com/tBrause/npm-vite-react-sass.git .; git remote remove origin
 
