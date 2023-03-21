@@ -1,4 +1,6 @@
-# Installation DEV-Entwicklungsumgebung
+# DEV-Entwicklungsumgebung
+
+## Installation
 
 > In Projektordner wechseln
 
@@ -24,9 +26,7 @@
 
     npm run preview
 
-## Erfolgreich getestet
-
-_19.03.2023_
+> 👍 Erfolgreich getestet: 19.03.2023
 
 ## scripts
 
