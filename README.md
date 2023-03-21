@@ -4,9 +4,9 @@
 
 ## Installation
 
-> CMD: In Projektordner wechseln
+> CMD: Projektordner erstellen und in diesen wechseln
 
-    cd
+    mkdir Name; cd Name
 
 > **CMD: git clone & git remote remove orgin**
 
