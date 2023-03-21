@@ -6,7 +6,7 @@
 
 > CMD-Befehl kopieren und einfügen
 
-    git clone https://github.com/tBrause/teste-installation.git .; git remote remove origin
+    git clone https://github.com/tBrause/npm-vite-react-sass.git .; git remote remove origin
 
 > CMD-Befehl kopieren und einfügen
 
