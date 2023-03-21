@@ -64,9 +64,9 @@
 
 ### scripts
 
-- dev
-- build
-- preview
+- dev: --host
+- build: vite build
+- preview: vite preview
 
 ### dependencies
 
