@@ -36,6 +36,26 @@
 
     npm run preview
 
+## Struktur und Dateien
+
+- public
+  - vite.svg
+- sass
+  - \_normalize.scss
+  - style.css
+- src
+  - components
+    - App.jsx
+  - app.jsx
+- .eslintrc.cjs
+- .gitignore
+- package-lock.json
+- package.json
+- postcss.config.cjs
+- prettier.config.cjs
+- README.md
+- vite.config.js
+
 ## Konfiguration
 
 ### scripts
@@ -62,24 +82,6 @@
 - eslint-plugin-jsx-a11y
 - eslint-plugin-react
 - eslint-plugin-react-hooks
-
-## Dateien
-
-- .eslintrc.cjs
-- .gitignore
-- package.json
-- postcss.config.cjs
-- prettier.config.cjs
-- README.md
-- vite.config.js
-- sass
-  - \_normalize.scss
-  - style.css
-- src
-  - components
-    - App.jsx
-  - app.jsx
-- .eslintrc.cjs
 
 ### browserslist
 
