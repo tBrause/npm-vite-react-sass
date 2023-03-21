@@ -8,6 +8,10 @@
 
     cd
 
+> CMD: VSCode öffnen (nach code den Pfad angeben)
+
+    code ...
+
 > CMD: git clone & git remote remove orgin
 
     git clone https://github.com/tBrause/npm-vite-react-sass.git .; git remote remove origin
