@@ -63,9 +63,18 @@
 - eslint-plugin-react
 - eslint-plugin-react-hooks
 
+## Dateien
+
+- .eslintrc.cjs
+- .gitignore
+- package.json
+- postcss.config.cjs
+- prettier.config.cjs
+- README.md
+- vite.config.js
+
 ### browserslist
 
 - default
 
 ## GIT
-
