@@ -36,19 +36,21 @@
 
     npm run preview
 
-## scripts
+## Konfiguration
+
+### scripts
 
 - dev
 - build
 - preview
 
-## dependencies
+### dependencies
 
 - react
 - react-dom
 - sass
 
-## devDependencies
+### devDependencies
 
 - @types/react
 - @types/react-dom
@@ -61,7 +63,9 @@
 - eslint-plugin-react
 - eslint-plugin-react-hooks
 
-## browserslist
+### browserslist
 
 - default
+
+## GIT
 
