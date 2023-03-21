@@ -16,12 +16,13 @@
 
     npm install; npm run build; npm run dev
 
+> 👍 Erfolgreich getestet: 21.03.2023
+
+## Bearbeiten
+
 > CMD: VSCode öffnen
 
     code .
-
-> 👍 Erfolgreich getestet: 21.03.2023
-> 21.03.2023
 
 ## CMD-Befehle
 
