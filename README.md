@@ -16,7 +16,7 @@
 
     npm install; npm run build; npm run dev
 
-> 👍 Erfolgreich getestet: 21.03.2023
+> _Erfolgreich getestet: 21.03.2023_
 
 ## Bearbeiten
 
