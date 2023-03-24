@@ -28,6 +28,10 @@
 
 ## CMD-Befehle
 
+> CMD: git clone & remote remove origin
+
+    git clone https://github.com/tBrause/npm-vite-react-sass.git .; git remote remove origin;
+
 > CMD: npm install
 
     npm install
