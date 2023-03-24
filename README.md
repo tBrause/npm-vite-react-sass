@@ -8,13 +8,13 @@
 
     mkdir Name; cd Name
 
-> **CMD: git clone & git remote remove orgin & npm install & npm build & npm dev**
+> **CMD: git clone & git remote remove orgin & npm install & npm run build & npm run dev**
 
     git clone https://github.com/tBrause/npm-vite-react-sass.git .; git remote remove origin; npm install; npm run build; npm run dev
 
-> **CMD: Schnellstart - install & build & dev**
+<!-- > **CMD: Schnellstart - install & build & dev**
 
-    npm install; npm run build; npm run dev
+    npm install; npm run build; npm run dev -->
 
 > _Erfolgreich getestet: 21.03.2023_
 
